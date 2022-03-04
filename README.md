@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dongremayur777
 - 👀 I’m interested in VLSI,Semiconductors.
 - 🌱 I’m currently learning ECE Btech
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for VLSI Internships.
 - 📫 How to reach me bt19ece016@iiitn.ac.in
 
 <!---

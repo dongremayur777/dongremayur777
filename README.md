@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dongremayur777
-- 👀 I’m interested in VLSI,Semiconductors.
+- 👀 I’m interested in Embedded Systems,Firmware.
 - 🌱 I’m currently pursuing ECE Btech
-- 💞️ I’m looking for VLSI Internships.
+- 💞️ Experience in Camera Integrations , Gstreamer , V4L2.
 - 📫 How to reach me bt19ece016@iiitn.ac.in
 
 <!---
